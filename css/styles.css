@@ -1,0 +1,22 @@
+img {
+  float: left;
+  padding: 5px;
+}
+
+.sidebar {
+  width: 15%;
+  border: 2px;
+  padding: 12px;
+  margin: 20px;
+  background-color: salmon;
+  float: left;
+}
+
+.columns {
+  width: 15%;
+  border: 3px dotted black;
+  background-color: lightblue;
+  padding: 12px;
+  margin: 20px;
+  float: left;
+}
